@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_range">220dp</dimen>
+    <dimen name="car_image_height">270dp</dimen>
+
+    <!--display size-->
+    <dimen name="size_4">4dp</dimen>
+    <dimen name="size_8">8dp</dimen>
+    <dimen name="size_12">12dp</dimen>
+
+    <dimen name="size_16">16dp</dimen>
+    <dimen name="size_20">20dp</dimen>
+    <dimen name="size_24">24dp</dimen>
+    <dimen name="size_28">28dp</dimen>
+
+    <dimen name="size_32">32dp</dimen>
+    <dimen name="size_36">36dp</dimen>
+
+    <!--font size-->
+    <dimen name="font_big">20sp</dimen>
+    <dimen name="font_normal">14sp</dimen>
+
+</resources>
